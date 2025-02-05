@@ -12,9 +12,9 @@ To master **automation testing** and contribute to a team that prioritizes softw
 
 If you're looking for a quality-focused professional committed to delivering high-standard software solutions, let's connect and collaborate.
 
-## 📫 How to Reach Me:
-- **LinkedIn:** [Mazen Adel](https://www.linkedin.com/in/mazenadel23/)  
-- **CV:** [View My Resume](https://drive.google.com/file/d/13QTKbQDh0PsGMFPj_cy7qA-yGhbeuWSl/view)
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/mazenadel23/)
+- [CV](https://drive.google.com/file/d/13QTKbQDh0PsGMFPj_cy7qA-yGhbeuWSl/view)
 
 ## 🛠 Technologies and Tools:
 
