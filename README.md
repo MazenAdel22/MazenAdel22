@@ -4,7 +4,7 @@ My name is **Mazen Adel**, and I'm a dedicated **Software Testing Engineer** wit
 
 I believe that quality assurance is not just about finding defects. It is about delivering a seamless and robust product that users can trust. My problem-solving mindset and attention to detail drive me to continuously enhance software reliability and performance.
 
-✨ **Creating bugs since 2024**  
+✨ **Hunting bugs since 2024**  
 Every discovered bug is an opportunity to refine the product and elevate its quality. My approach to testing is both strategic and thorough, ensuring that even the most elusive issues are uncovered and addressed effectively.
 
 🎯 **Professional Goals:**  
