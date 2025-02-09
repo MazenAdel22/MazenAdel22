@@ -14,7 +14,7 @@ If you're looking for a quality-focused professional committed to delivering hig
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/mazenadel23/)
-- [CV](https://drive.google.com/file/d/1dm16CUYZ4SYyO7bl440o09TPY449koUY/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1aEEwbt-_zyRL01_TTYPhtAL__AKvH_GX/view?usp=sharing)
 
 ## 🛠 Technologies and Tools:
 
