@@ -1,6 +1,6 @@
 # <h1>Hello, World! 👋</h1>
 
-My name is **Mazen Adel**, and I'm a dedicated **Software Testing Engineer** with a strong passion for ensuring software quality. With expertise in both **manual and automated testing**, I specialize in identifying and resolving issues to enhance product reliability and user experience. My skill set includes **API testing, performance testing, mobile testing, and automation**, leveraging tools such as **Jira, Selenium, Postman, and more**.
+My name is **Mazen Adel**, and I'm a dedicated **Software Testing Engineer** with a strong passion for ensuring software quality. With expertise in both **manual and automated testing**, I specialize in identifying and resolving issues to enhance product reliability and user experience. My skill set includes **API testing, performance testing, mobile testing, and automation testing**, leveraging tools such as **Jira, Selenium WebDriver, Postman, and more**.
 
 I believe that quality assurance is not just about finding defects. It is about delivering a seamless and robust product that users can trust. My problem-solving mindset and attention to detail drive me to continuously enhance software reliability and performance.
 
