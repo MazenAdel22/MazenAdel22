@@ -29,12 +29,6 @@ If you're looking for a quality-focused professional committed to delivering hig
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/junit-5.svg" height="40" alt="JUnit logo" />
-  <img width="12" />
-  <img src="https://testng.org/testng-logo.png" height="40" alt="TestNG logo" />
-  <img width="12" />
-  <img src="https://cucumber.io/images/cucumber-logo.svg" height="40" alt="Cucumber logo" />
-  <img width="12" />
   <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo"  />
